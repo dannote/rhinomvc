@@ -1,8 +1,0 @@
-<html>
-<body>
-<h1>Hello!</h1>
-<p>You can <a href="/db">view databases</a> or <a href="/template">test template</a>.</p>
-<h2>Look at this image</h2>
-<img src="/image.png" />
-</body>
-</html>
