@@ -1,9 +1,8 @@
 RhinoMVC
 ========
 
-Java + Rhino + Jetty + FreeMarker sample
-
-Usage:
+<p>Java + Rhino + Jetty + FreeMarker sample</p>
+<p>Usage:</p>
 <code>
 ./run.sh
 </code>
